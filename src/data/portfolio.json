@@ -70,6 +70,12 @@
       "description": "Responsive e-commerce web app with dynamic product listings and cart management, focused on UI/UX and performance.",
       "tech": ["React", "TypeScript", "HTML", "CSS"],
       "link": "#"
+    },
+    {
+      "title": "Self-Budgeting App",
+      "description": "Cross-platform expense tracker with cash/credit/debit categories, CRUD, and monthly summaries. Built with React Native (Expo) and AsyncStorage.",
+      "tech": ["React Native", "Expo", "AsyncStorage", "React Navigation", "React native chat kit", "JavaScript"],
+      "link": "#"
     }
   ]
 }
