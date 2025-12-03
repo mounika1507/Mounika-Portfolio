@@ -1,35 +1,38 @@
 {
   "name": "Mounika Uppalapati",
-  "title": "Full Stack Developer",
-  "tagline": "Building scalable web and enterprise applications with modern technologies",
+  "title": "Java Developer",
+  "tagline": "Building scalable backend systems and enterprise applications using Java, Spring Boot, and cloud-native technologies",
   "phone": "(314)-789-6996",
   "email": "uppalapati2001@gmail.com",
   "linkedin": "https://www.linkedin.com/in/uppalapati-mounika",
   "github": "https://github.com/mounika1507",
-  "summary": "Full Stack Developer with 3+ years of experience building scalable web and enterprise applications. Experienced with Java, Python, React, Angular, Spring Boot, and AWS. I design and implement RESTful APIs and modern front-end applications, and collaborate with teams using Agile practices to deliver production-ready, maintainable software.",
+
+  "summary": "Java Developer with 3+ years of experience building secure, scalable, and high-performance backend and full-stack applications. Skilled in Java, Spring Boot, Microservices, REST APIs, SQL/NoSQL databases, and AWS cloud deployment. Experienced in designing modular architectures, optimizing backend performance, integrating distributed systems, and collaborating in Agile teams to deliver production-ready enterprise software.",
+
   "experience": [
     {
       "company": "Sradha Technologies",
-      "role": "Software Developer",
+      "role": "Java Developer",
       "period": "March 2025 – Present",
       "location": "McKinney, TX",
-      "description": "Working as a Software Developer building scalable web and data-processing applications using Java, Python, and modern web stacks; collaborating in Agile teams to deliver production features."
+      "description": "Developing scalable backend systems using Java, Spring Boot, Microservices, and REST APIs. Implementing secure authentication, integrating SQL/NoSQL databases, optimizing application performance, and contributing to cloud deployments on AWS. Building distributed data-processing solutions and collaborating in Agile teams to deliver enterprise-grade software."
     },
     {
       "company": "Globestar Software Limited",
-      "role": "Software Engineer",
+      "role": "Java Developer",
       "period": "Aug 2021 – Dec 2022",
       "location": "Remote",
-      "description": "Contributed to frontend and backend development of responsive web applications, focusing on API design and integration with SQL/NoSQL databases."
+      "description": "Developed and maintained backend services using Java and Spring Boot. Implemented REST APIs, enhanced database performance (SQL Server, DB2), and contributed to full-stack development with React and Angular. Integrated Kafka for inter-service communication and improved API security with Spring Security and JWT."
     },
     {
       "company": "Supraja Technologies",
       "role": "Web Development Intern",
       "period": "Mar 2021 – Jul 2021",
       "location": "India",
-      "description": "Developed responsive web pages using HTML, CSS, JavaScript, and Bootstrap. Collaborated with developers to integrate frontend components with backend APIs, and gained experience in Git version control and Agile workflows."
+      "description": "Built responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap. Gained hands-on experience in API integration, Git workflows, and Agile development practices while supporting full-stack application development."
     }
   ],
+
   "education": [
     {
       "institution": "Missouri University of Science and Technology",
@@ -42,46 +45,49 @@
       "location": "Vijayawada, India"
     }
   ],
+
   "skills": {
-    "programming": ["Java", "Python", "JavaScript", "TypeScript", "R"],
+    "programming": ["Java", "Python", "JavaScript", "TypeScript"],
+    "backend": ["Spring Boot", "Microservices", "REST APIs", "Node.js", "Express"],
     "frontend": ["React.js", "Angular", "HTML", "CSS"],
-    "backend": ["Node.js", "Express", "Spring Boot", "REST APIs"],
-    "databases": ["MongoDB", "PostgreSQL", "SQL"],
-    "cloudDevOps": ["AWS", "CI/CD", "Git"]
+    "databases": ["SQL Server", "PostgreSQL", "MongoDB", "DB2"],
+    "cloudDevOps": ["AWS", "CI/CD", "Docker", "Git", "GitHub Actions"]
   },
+
   "certifications": [
     "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
     "AWS Certified Solutions Architect"
   ],
+
   "projects": [
     {
       "title": "Self-Supervised Classification Network",
-      "description": "Implemented SimCLR for self-supervised learning on ImageNet, improving representation quality for downstream classification tasks.",
+      "description": "Implemented SimCLR for self-supervised learning to improve representation quality for downstream classification tasks.",
       "tech": ["Python", "PyTorch", "CUDA"],
       "link": "#"
     },
     {
       "title": "Driver Drowsiness Detection",
-      "description": "Real-time drowsiness detection using computer vision (OpenCV) and deep learning to enhance road safety.",
+      "description": "Developed a real-time drowsiness detection system using computer vision and deep learning to enhance road safety.",
       "tech": ["Python", "OpenCV", "TensorFlow"],
       "link": "#"
     },
     {
       "title": "Forest Fire Prediction",
-      "description": "Predictive ML model to forecast forest fires based on environmental data with clear visualizations of feature importance.",
+      "description": "Built a predictive ML model for forecasting forest fires using environmental data, including data analysis and visualization.",
       "tech": ["Python", "scikit-learn", "Pandas"],
       "link": "#"
     },
     {
       "title": "Green Basket E-Commerce Website",
-      "description": "Responsive e-commerce web app with dynamic product listings and cart management, focused on UI/UX and performance.",
+      "description": "Developed a responsive e-commerce app with dynamic product listings, shopping cart functionality, and optimized UI/UX.",
       "tech": ["React", "TypeScript", "HTML", "CSS"],
       "link": "#"
     },
     {
       "title": "Self-Budgeting App",
-      "description": "Cross-platform expense tracker with cash/credit/debit categories, CRUD, and monthly summaries. Built with React Native (Expo) and AsyncStorage.",
-      "tech": ["React Native", "Expo", "AsyncStorage", "React Navigation", "React native chat kit", "JavaScript"],
+      "description": "Created a cross-platform budgeting app with expense tracking, category management, and monthly summaries.",
+      "tech": ["React Native", "Expo", "AsyncStorage"],
       "link": "#"
     }
   ]
