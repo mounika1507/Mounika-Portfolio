@@ -55,6 +55,13 @@
   ],
   "projects": [
     {
+      "title": "AI-Powered Job Application Tracker",
+      "description": "Developed a full-stack platform with AI-driven resume tailoring, ATS scoring, interview preparation, and job tracking features to streamline the job search workflow.",
+      "tech": ["TypeScript", "React", "NestJS", "PostgreSQL"],
+      "link": "#"
+    }
+
+    {
       "title": "Self-Supervised Classification Network",
       "description": "Implemented SimCLR for self-supervised learning on ImageNet, improving representation quality for downstream classification tasks.",
       "tech": ["Python", "PyTorch", "CUDA"],
